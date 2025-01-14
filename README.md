@@ -5,7 +5,7 @@
 - 🎓 **Estudante no 1° semestre de análise e desenvolvimento de sistemas.**  
 - 📍 **Morando em São João de Meriti, RJ.**  
 - 💻 **Atualmente estudando Java, PostgreSQL, Angular.**  
-- ✉️ **Contato**: [Email](ctt.dalton@gmail.com) ou [Linkedin](https://www.linkedin.com/in/daltonsantos001/)
+- ✉️ **Contato**: ctt.dalton@gmail.com ou [Linkedin](https://www.linkedin.com/in/daltonsantos001/)
 
 ---
 
