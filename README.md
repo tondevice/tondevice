@@ -2,9 +2,9 @@
 
 ## 📌 Sobre Mim
 
-- 🎓 **Estudante no 1° semestre de análise e desenvolvimento de sistemas.**  
+- 🎓 **Estudante no 3° semestre de análise e desenvolvimento de sistemas.**  
 - 📍 **Morando em São João de Meriti, RJ.**  
-- 💻 **Atualmente estudando Java, PostgreSQL, Angular.**  
+- 💻 **Atualmente estudando Java, SQL, Angular, Cibersegurança, GRC e Automação.**  
 - ✉️ **Contato**: ctt.dalton@gmail.com ou [Linkedin](https://www.linkedin.com/in/daltonsantos001/)
 
 ---
@@ -17,16 +17,7 @@
 
 ---
 
-## 📚 Cursos Atuais
 
-| Curso                              | Plataforma     | Status     |
-|------------------------------------|----------------|------------|
-| Java do Zero ao Profissional       | Udemy          | Em andamento |
-| Java Poo                           | Curso em Vídeo | Concluído  |
-| Tutorial HTML, CSS e Java Script   | Udemy          | Concluído  |
-| Algoritímo                         | YouTube e Udemy| Em andamento |
-
----
 
 ## 🌟 Objetivo
 
